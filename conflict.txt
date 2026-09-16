@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿Header from feature
+=======
+﻿Footer from feature
+>>>>>>> feature/footer-conflict
